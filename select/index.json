@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Happy Halloween",
+  "base_artist": "Junky",
+  "createdAt": "2025-12-23T02:23:53.207922Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Happy Halloween",
+      "artist": "Die So Fluid",
+      "has_synced": true,
+      "path": "select/01_Happy_Halloween_Die_So_Fluid.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Happy Hallowe'en",
+      "artist": "Die So Fluid",
+      "has_synced": true,
+      "path": "select/02_Happy_Hallowe'en_Die_So_Fluid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Happy Halloween",
+      "artist": "The Blanks",
+      "has_synced": false,
+      "path": "select/03_Happy_Halloween_The_Blanks.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Happy Halloween",
+      "artist": "Junky feat.鏡音リン",
+      "has_synced": true,
+      "path": "select/04_Happy_Halloween_Junky_feat.鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Happy Halloween (feat. 鏡音リン)",
+      "artist": "Junky",
+      "has_synced": true,
+      "path": "select/05_Happy_Halloween_(feat._鏡音リン)_Junky.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Happy Halloween (Intro)",
+      "artist": "Josh A feat. Iamjakehill",
+      "has_synced": true,
+      "path": "select/06_Happy_Halloween_(Intro)_Josh_A_feat._Iamjakehill.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Happy Halloween (Intro)",
+      "artist": "Josh A",
+      "has_synced": true,
+      "path": "select/07_Happy_Halloween_(Intro)_Josh_A.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Happy Halloween (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/08_Happy_Halloween_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Happy Halloween",
+      "artist": "FalKKonE feat. Megumi",
+      "has_synced": true,
+      "path": "select/09_Happy_Halloween_FalKKonE_feat._Megumi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Happy Halloween",
+      "artist": "FalKKonE",
+      "has_synced": true,
+      "path": "select/10_Happy_Halloween_FalKKonE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Happy Halloween",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン",
+      "has_synced": true,
+      "path": "select/11_Happy_Halloween_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Happy Halloween",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/12_Happy_Halloween_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Happy Halloween",
+      "artist": "Junky",
+      "has_synced": true,
+      "path": "select/13_Happy_Halloween_Junky.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Happy Halloween (Intro)",
+      "artist": "Josh A/iamjakehill",
+      "has_synced": true,
+      "path": "select/14_Happy_Halloween_(Intro)_Josh_A_iamjakehill.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Happy Halloween",
+      "artist": "Junky, Kagamine Rin",
+      "has_synced": true,
+      "path": "select/15_Happy_Halloween_Junky,_Kagamine_Rin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Happy Halloween (feat. KAGAMINE RIN)",
+      "artist": "Junky",
+      "has_synced": true,
+      "path": "select/16_Happy_Halloween_(feat._KAGAMINE_RIN)_Junky.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Happy Halloween",
+      "artist": "Junky feat. 鏡音リン",
+      "has_synced": false,
+      "path": "select/pl_01_Happy_Halloween_Junky_feat._鏡音リン.txt"
+    }
+  ]
+}
